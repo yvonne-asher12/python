@@ -1,3 +1,6 @@
+BSCIT-05-0072/2024
+YVONNE KARIMI
+
 #prompting the user to enter names
 names = []
 name = (input("Enter your list:"))
