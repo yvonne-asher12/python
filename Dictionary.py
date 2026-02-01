@@ -1,4 +1,7 @@
+BSCIT-05-0072/2024
+YVONNE KARIMI
 
+#python lists
 invt={}
 i = 1
 
