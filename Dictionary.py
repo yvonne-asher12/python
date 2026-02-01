@@ -1,7 +1,7 @@
 BSCIT-05-0072/2024
 YVONNE KARIMI
 
-#python lists
+#python Dictionary
 invt={}
 i = 1
 
