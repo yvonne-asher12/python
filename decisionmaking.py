@@ -1,5 +1,5 @@
-Yvonne Karimi
-BSCIT-05-0072/2024
+#Yvonne Karimi
+#BSCIT-05-0072/2024
 #decision making
 salary=float(input("Enter your salary: "))
 years_worked=int(input("Enter the years of service: "))
